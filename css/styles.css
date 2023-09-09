@@ -210,7 +210,7 @@
     }
 
     #bio-container h2 {
-        display: none;
+        display: auto;
     }
 
     #bio-container p {
